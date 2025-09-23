@@ -1,0 +1,83 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Regional Politics"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "880aec51-4c88-1ce0-e3c2-805c2f8f651d",
+  "instructors": {
+    "content": [
+      "fb7c1f09-5fbc-cf01-a1f6-0c666e433d97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a17d5ca1-0af2-5932-6377-1c43fabd7694",
+    "website": "11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015"
+  },
+  "course_title": "Urban Development in Conflict Cities: Planning Challenges and Policy Innovations",
+  "course_description": "Economic, religious, gender, and ethnic differences must be negotiated every day in the urban arena. When tensions and conflict escalate into violence, the urban space becomes the battlespace in which these tensions are negotiated. This course examines urban development challenges in conflict cities through multiple disciplinary perspectives on urban conflict. This course also reviews literature that focuses on when violence and cities intersect. Students will learn about policy innovations, and study potential planning, design, and policy solutions.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.488",
+  "course_image_thumbnail": {
+    "content": "08b3e69e-1702-df9f-6e3f-2bd5656290d5",
+    "website": "11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "4b88fd83-9dc6-4ce6-b332-407fe70b40f6",
+  "site_short_id": "11.488-fall-2015",
+  "site_url_path": "courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015",
+  "title": "Course Metadata"
+}

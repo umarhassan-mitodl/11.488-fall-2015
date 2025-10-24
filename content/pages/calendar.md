@@ -95,7 +95,7 @@ Student-led discussion
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: {{% resource_link "dfe73068-0706-4b05-a55a-926548edd304" "Dr. Annette Idler" %}}, Director of Studies, {{% resource_link "479c3ae8-d0df-4dd0-a2f1-a9e5da6c7c2c" "The Changing Character of War Programme" %}}, Pembroke College and Research Associate at the {{% resource_link "c55da433-7d8f-40ad-8ea5-d4d94d58ca64" "Department of Politics and International Relations" %}}, University of Oxford
+Guest lecturer: [Dr. Annette Idler](https://annetteidler.com/), Director of Studies, [The Changing Character of War Programme](http://www.ccw.ox.ac.uk/), Pembroke College and Research Associate at the [Department of Politics and International Relations](http://www.politics.ox.ac.uk/), University of Oxford
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
